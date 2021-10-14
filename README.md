@@ -7,4 +7,6 @@
 <p><a href="https://linkedin.com/in/godiragetse-naane-9b9a8417a" target="_blank">LinkedIn</a></p>
 <p><a href="https://github.com/nanitight" target="_blank"> Github</a></p>
 <p>email: ntpnaane@gmail.com or u17132330@tuks.co.za</p>
+<p>Computer Science final year student at the University of Pretoria.
+  Working towards being a full stack developer </p>
 <p>Interests: Music + Eating !!!</p>
