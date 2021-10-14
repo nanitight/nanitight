@@ -14,11 +14,10 @@
 <p><a href="https://github.com/nanitight" target="_blank"> Github</a></p>
 <p>email: ntpnaane@gmail.com or u17132330@tuks.co.za</p>
 <ul>
-  <p>Interests: Music + Eating !!!</p>
+  <p>Interests: </p>
   <li> Music: Drums, Piano </li>
   <li> Technology </li>
-
-
+  <li> Eating !!! </li>
   <li> Aviation </li>
 
   
