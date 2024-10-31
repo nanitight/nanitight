@@ -1,5 +1,5 @@
 
-<p style=" text-align:center"> 
+<p style=" text-align: center"> 
     <img src="https://drive.google.com/thumbnail?id=1nNdvh1nZNjs_Mp398-63k_XmEs6rkSMr" width="45%">
 </p>
 <table style="margin-left: 10%; padding: 20px; min-width:50%;">
@@ -55,6 +55,8 @@
 <p>Top 3 in my class for 3 years. Received distinctions for Mathematics, Accounting, Physical Sciences and Life Orientation in matric. </p>
 </div>
 </div>
+            
+---
 
 <div style="width:100%; padding:10px; vertical-align: middle;">
 <span style="display: flex; justify-content: center;  align-items: center;">
@@ -64,16 +66,15 @@
 <div>
 <ul>
   <li> I completed an Assessor course and was certified as a competent assessor(2024) from Turnstone Training Solutions. </li>
-  <li> For my persistence and diligence in the work environment at STS3D, I received the ‘Young-Gun’ certificate at end of 2023. </li>
+  <li> For my persistence and diligence in the work environment at STS3D, I received the ‘Young-Gun’ certificate at the end of 2023. </li>
   <li> Awarded certification for participation as a UP Stars mentor in the Stars Mentorship Programme (2021) and FLY Buddy pilot programme (2019). I joined the 2 communities as a way of giving back, by helping first-year students adjust to university. </li>
   <li> Completed the YC combinator virtual programme (2020) that led me to develop a passion for full stack development. I gained hands-on experience from solving the challenges provided. In the frontend task was to be solved in a ReactJs project and the backend with  ExpressJS, Better-SQLite3. The NodeJS stack. </li>
-  <li> I volunteered to be the group leader for our final year project (2021); and our group managed to be number one in the architectural design phase amongst the whole course (module). </li>
-  <li> Aviation </li>
-
-  
+  <li> I volunteered to be the group leader for our final year project (2021), and our group managed to be number one in the architectural design phase amongst the whole course (module). </li>
  </ul> 
  </div>
---- 
+ </div>
+            
+---
 
 
 ################### SUMMARY ##################
