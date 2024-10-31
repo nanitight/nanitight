@@ -1,5 +1,5 @@
 
-<p style=" text-align: center"> 
+<p style=" text-align:center"> 
     <img src="https://drive.google.com/thumbnail?id=1nNdvh1nZNjs_Mp398-63k_XmEs6rkSMr" width="45%">
 </p>
 <table style="margin-left: 10%; padding: 20px; min-width:50%;">
@@ -11,16 +11,24 @@
   <p style="font-weight:600; font-size:40px">Naane</p>
   </td>
   <td style="text-align:right;width:50%;border:none;border:none;padding-right:10%;font-size:30px">
-  <p><b>2211 Zone 8, Ga-Rankuwa</b></p>
+  <p>
+  <img width="50px" height="50px"
+  src="https://drive.google.com/thumbnail?id=1hRdbPNk9XcAwTnpRHDKe3GKynUAnwbgd&sz=w1000" alt="Address icon" >
+  <b>2211 Zone 8, Ga-Rankuwa</b></p>
   <p><b>Pretoria, 0208</b> 
+  </p>
+  <p>
   <img width="50px" height="50px"
-  src="https://drive.google.com/thumbnail?id=1hRdbPNk9XcAwTnpRHDKe3GKynUAnwbgd&sz=w1000" alt="Address icon" ></p>
-  <p><b>0715319648</b>
-  <img width="50px" height="50px"
-  src="https://drive.google.com/thumbnail?id=1u3bEikum0XVEXeKW8dTDhwXvEw9qmtUZ&sz=w1000" alt="Phone icon"></p>
-  <p><a id="#ndxr1">ntpnaane@gmail.com</a><img width="50px" height="50px" src="https://drive.google.com/thumbnail?id=1F26nPRINc6knWoyoRxq8KT3Qq8w8YB20&sz=w1000" alt="Email icon">
-
-  <p><b>South African<img width="50px" height="50px" src="https://drive.google.com/thumbnail?id=1nX6X5W7Srsqn4PWwwmnwll-ZzI9ipJbp" alt="Nationality"></p>
+  src="https://drive.google.com/thumbnail?id=1u3bEikum0XVEXeKW8dTDhwXvEw9qmtUZ&sz=w1000" alt="Phone icon">
+  <b>0715319648</b>
+  </p>
+  <p>
+  <img width="50px" height="50px" src="https://drive.google.com/thumbnail?id=1F26nPRINc6knWoyoRxq8KT3Qq8w8YB20&sz=w1000" alt="Email icon">
+<a id="#ndxr1">ntpnaane@gmail.com</a></p>
+  <p>
+  <img width="50px" height="50px" src="https://drive.google.com/thumbnail?id=1nX6X5W7Srsqn4PWwwmnwll-ZzI9ipJbp" alt="Nationality">
+  <b>South African</b>
+  </p>
   </td>
  </tr>
 </tbody></table>
@@ -41,8 +49,8 @@
 
 <div style="width:100%; padding:10px; vertical-align: middle;">
 <span style="display: flex; justify-content: center;  align-items: center;">
-        <p style="display:inline-block;margin:20px;"><img width="50px" height="50px" src="https://drive.google.com/thumbnail?id=1WEhIzdDo-jDtN9bzuLF5IH4EhPpsaE6A" alt="Objective icon"><b style="display:inline-block"></p>
-    <h1 style="display:inline-block"> Education</h1>
+        <p style="flex: 1;display:inline-block;margin:20px;"><img width="50px" height="50px" src="https://drive.google.com/thumbnail?id=1WEhIzdDo-jDtN9bzuLF5IH4EhPpsaE6A" alt="Objective icon"><b style="display:inline-block"></p>
+    <h1 style="flex: 1;display:inline-block"> Education</h1>
     </span>
 <div>
 <h2>BSc Computer Science | University of Pretoria</h2>
@@ -55,8 +63,6 @@
 <p>Top 3 in my class for 3 years. Received distinctions for Mathematics, Accounting, Physical Sciences and Life Orientation in matric. </p>
 </div>
 </div>
-            
----
 
 <div style="width:100%; padding:10px; vertical-align: middle;">
 <span style="display: flex; justify-content: center;  align-items: center;">
@@ -66,14 +72,16 @@
 <div>
 <ul>
   <li> I completed an Assessor course and was certified as a competent assessor(2024) from Turnstone Training Solutions. </li>
-  <li> For my persistence and diligence in the work environment at STS3D, I received the ‘Young-Gun’ certificate at the end of 2023. </li>
+  <li> For my persistence and diligence in the work environment at STS3D, I received the ‘Young-Gun’ certificate at end of 2023. </li>
   <li> Awarded certification for participation as a UP Stars mentor in the Stars Mentorship Programme (2021) and FLY Buddy pilot programme (2019). I joined the 2 communities as a way of giving back, by helping first-year students adjust to university. </li>
   <li> Completed the YC combinator virtual programme (2020) that led me to develop a passion for full stack development. I gained hands-on experience from solving the challenges provided. In the frontend task was to be solved in a ReactJs project and the backend with  ExpressJS, Better-SQLite3. The NodeJS stack. </li>
-  <li> I volunteered to be the group leader for our final year project (2021), and our group managed to be number one in the architectural design phase amongst the whole course (module). </li>
+  <li> I volunteered to be the group leader for our final year project (2021); and our group managed to be number one in the architectural design phase amongst the whole course (module). </li>
+  <li> Aviation </li>
+
+  
  </ul> 
  </div>
  </div>
-            
 ---
 
 
